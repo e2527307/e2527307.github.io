@@ -1,0 +1,49 @@
+.intro-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px
+}
+
+.like {
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+}
+
+.dislike {
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+}
+
+.college {
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+}
+
+.like {
+    background-color: #ebf7ee;
+    border-color: #c3e6cb;
+}
+
+.dislike {
+    background-color: #fdf2f2;
+    border-color: #f5c6cb;
+}
+
+.college {
+    background-color: rgba(255, 228, 196, 0.763);
+    border-color: #ffeeba;
+}
+
+.insta {
+    display: inline;
+
+    margin: 0 8px 0 0;
+    padding: 8px 4px;
+
+    border: 1px solid #000;
+    border-radius: 4px;
+
+    background: linear-gradient(#fff, #999);
+}

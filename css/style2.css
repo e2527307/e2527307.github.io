@@ -1,0 +1,30 @@
+.hobby-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+}
+
+.piano {
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    background-color: #86b8f0;
+    border-color: #86b8f0;
+}
+
+.volleyball {
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    background-color: #b5d0f9;
+    border-color: #b5d0f9;
+}
+
+.baseball {
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    background-color: #d4e3f7;
+    border-color: #e8d6ff;
+}
+
